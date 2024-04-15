@@ -15,6 +15,6 @@ class LoadData {
       $promotion = $abTest->getPromotionName();
       $designs = $abTest->getAllDesigns();
       return $designs;
-
+  
     }
 }
