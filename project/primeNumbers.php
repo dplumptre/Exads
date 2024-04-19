@@ -53,7 +53,7 @@ class PrimeNumbers
 
 
 //  instantiated class
-
+// this is is the feature i want
 $array_numbers = range(1, 100);
 $arr = new PrimeNumbers($array_numbers);
 echo $arr->handle();
