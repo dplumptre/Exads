@@ -7,7 +7,7 @@ $d = 0;
 try{
     $r = $num/$d;
 }catch(Exception $e){
-    echo "nice one". $e;
+    echo "nice one ok". $e;
 }
 
 
